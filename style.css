@@ -1,0 +1,29 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Styling for main heading */
+h1 {
+    color: #007bff;
+    text-align: center;
+}
+
+/* Styling for paragraphs */
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+/* Styling for strong and emphasized text */
+strong {
+    color: #d9534f;
+}
+
+em {
+    color: #5bc0de;
+}
